@@ -1,10 +1,6 @@
-@import url('https://dl.dropboxusercontent.com/s/e1e1wkebqqslhm6/Badges2.5.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/dmfe7t7pmzog7x0/Rank.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/3xy3nboalwpvbk2/zoom.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/c28c7bqqbdjxthu/vip.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/ts43qarnakax3u7/usuarios.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/3t7qeytvjtmsd8u/staff.css?dl=0');
-@import url('https://dl.dropboxusercontent.com/s/pi4qrkqmyo0mi4d/Eventos.css?dl=0');
+@import url('https://raw.githubusercontent.com/eimantuks7/new_badges/master/badges');
+@import url('https://raw.githubusercontent.com/eimantuks7/new_zoom/master/zoom');
+@import url('https://raw.githubusercontent.com/eimantuks7/new_staffas/master/custom');
 
 /* WEBKITS */
 
@@ -431,7 +427,7 @@ to{
     background-repeat: no-repeat !important;
     background-size: 1600px 900px !important;
     max-height: 920px !important;
-    background-image: url(https://imgur.com/UzSkKbo.gif) !important;
+    background-image: url(https://i.imgur.com/1AhICCK.png) !important;
 }
 
 .community__playback-meta--desktop .community__song-playing-progress{
